@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "module": "nodenext",
-    "outDir": "./dist",
+    "outDir": "./dist/src",
     "rootDir": "./",
     "target": "es2018",
     "types": [],
